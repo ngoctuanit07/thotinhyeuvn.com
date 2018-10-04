@@ -1,0 +1,726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bohaute v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-01 19:18:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:10
+#@ bohaute
+msgid "Epic 404 - Article Not Found"
+msgstr ""
+
+#: 404.php:13
+#@ bohaute
+msgid "The article you were looking for was not found. You may want to check your link or perhaps that page does not exist anymore."
+msgstr ""
+
+#: archive.php:10
+#@ bohaute
+msgid "Posts Categorized:"
+msgstr ""
+
+#: archive.php:15
+#@ bohaute
+msgid "Posts Tagged:"
+msgstr ""
+
+#: archive.php:24
+#@ bohaute
+msgid "Posts By:"
+msgstr ""
+
+#: archive.php:29
+#@ bohaute
+msgid "Daily Archives:"
+msgstr ""
+
+#: archive.php:34
+#@ bohaute
+msgid "Monthly Archives:"
+msgstr ""
+
+#: archive.php:39
+#@ bohaute
+msgid "Yearly Archives:"
+msgstr ""
+
+#: comments.php:17
+#@ bohaute
+msgid "<span>No</span> Comments"
+msgstr ""
+
+#: comments.php:17
+#@ bohaute
+msgid "<span>1</span> Comment"
+msgstr ""
+
+#: comments.php:17
+#@ bohaute
+msgid "<span>%</span> Comments"
+msgid_plural "<span>%</span> Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:39
+#@ bohaute
+msgid "&larr; Previous Comments"
+msgstr ""
+
+#: comments.php:40
+#@ bohaute
+msgid "More Comments &rarr;"
+msgstr ""
+
+#: comments.php:45
+#@ bohaute
+msgid "Comments are closed."
+msgstr ""
+
+#: full-width.php:28
+#, php-format
+#@ bohaute
+msgid "Posted <time class=\"updated\" datetime=\"%1$s\" pubdate>%2$s</time> by <span class=\"author\">%3$s</span>"
+msgstr ""
+
+#: full-width.php:38
+#: post-content/post-blog.php:9
+#@ bohaute
+msgid "Pages:"
+msgstr ""
+
+#: full-width.php:57
+#: page.php:33
+#: single.php:84
+#@ bohaute
+msgid "Oops, Post Not Found!"
+msgstr ""
+
+#: full-width.php:58
+#: page.php:34
+#: single.php:85
+#@ bohaute
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr ""
+
+#: functions.php:71
+#@ bohaute
+msgid "Posts Sidebar"
+msgstr ""
+
+#: functions.php:72
+#@ bohaute
+msgid "The Posts sidebar."
+msgstr ""
+
+#: functions.php:81
+#@ bohaute
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:82
+#@ bohaute
+msgid "The Page sidebar."
+msgstr ""
+
+#: functions.php:117
+#@ bohaute
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:121
+#, php-format
+#@ bohaute
+msgid "<cite class=\"fn\">%1$s</cite> %2$s"
+msgstr ""
+
+#: functions.php:121
+#@ bohaute
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:122
+#@ bohaute
+msgid "F jS, Y"
+msgstr ""
+
+#: functions.php:153
+#@ bohaute
+msgid "Theme Color Scheme"
+msgstr ""
+
+#: functions.php:161
+#@ bohaute
+msgid "Site Logo"
+msgstr ""
+
+#: functions.php:163
+#@ bohaute
+msgid "Upload a logo to replace the default site name in the header"
+msgstr ""
+
+#: functions.php:171
+#@ bohaute
+msgid "Choose your logo (ideal width is 100-350px and ideal height is 35-40)"
+msgstr ""
+
+#: functions.php:179
+#@ bohaute
+msgid "Social Media Icons"
+msgstr ""
+
+#: functions.php:181
+#@ bohaute
+msgid "Optional media icons in the header"
+msgstr ""
+
+#: functions.php:189
+#@ bohaute
+msgid "Enter your Facebook url"
+msgstr ""
+
+#: functions.php:200
+#@ bohaute
+msgid "Enter your Twitter url"
+msgstr ""
+
+#: functions.php:211
+#@ bohaute
+msgid "Enter your Google+ url"
+msgstr ""
+
+#: functions.php:222
+#@ bohaute
+msgid "Enter your Pinterest url"
+msgstr ""
+
+#: functions.php:233
+#@ bohaute
+msgid "Enter your Linkedin url"
+msgstr ""
+
+#: functions.php:244
+#@ bohaute
+msgid "Enter your Youtube url"
+msgstr ""
+
+#: functions.php:255
+#@ bohaute
+msgid "Enter your Tumblr url"
+msgstr ""
+
+#: functions.php:266
+#@ bohaute
+msgid "Enter your Instagram url"
+msgstr ""
+
+#: functions.php:277
+#@ bohaute
+msgid "Enter your Flickr url"
+msgstr ""
+
+#: functions.php:288
+#@ bohaute
+msgid "Enter your Vimeo url"
+msgstr ""
+
+#: functions.php:299
+#@ bohaute
+msgid "Enter your RSS url"
+msgstr ""
+
+#: functions.php:310
+#@ bohaute
+msgid "Enter your email address"
+msgstr ""
+
+#: functions.php:531
+#@ bohaute
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:532
+#@ bohaute
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:533
+#@ bohaute
+msgid "Google+"
+msgstr ""
+
+#: functions.php:534
+#@ bohaute
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:535
+#@ bohaute
+msgid "Linkedin"
+msgstr ""
+
+#: functions.php:536
+#@ bohaute
+msgid "Youtube"
+msgstr ""
+
+#: functions.php:537
+#@ bohaute
+msgid "Tumblr"
+msgstr ""
+
+#: functions.php:538
+#@ bohaute
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:539
+#@ bohaute
+msgid "Flickr"
+msgstr ""
+
+#: functions.php:540
+#@ bohaute
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:541
+#@ bohaute
+msgid "RSS"
+msgstr ""
+
+#: functions.php:614
+#: library/class/class-tgm-plugin-activation.php:161
+#@ bohaute
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:615
+#: library/class/class-tgm-plugin-activation.php:162
+#@ bohaute
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:616
+#: library/class/class-tgm-plugin-activation.php:163
+#, php-format
+#@ bohaute
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:617
+#@ bohaute
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:618
+#: library/class/class-tgm-plugin-activation.php:165
+#, php-format
+#@ bohaute
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:619
+#: library/class/class-tgm-plugin-activation.php:166
+#, php-format
+#@ bohaute
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:620
+#: library/class/class-tgm-plugin-activation.php:167
+#, php-format
+#@ bohaute
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:621
+#: library/class/class-tgm-plugin-activation.php:168
+#, php-format
+#@ bohaute
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:622
+#: library/class/class-tgm-plugin-activation.php:169
+#, php-format
+#@ bohaute
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:623
+#: library/class/class-tgm-plugin-activation.php:170
+#, php-format
+#@ bohaute
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:624
+#: library/class/class-tgm-plugin-activation.php:171
+#, php-format
+#@ bohaute
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:625
+#: library/class/class-tgm-plugin-activation.php:172
+#, php-format
+#@ bohaute
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:626
+#: library/class/class-tgm-plugin-activation.php:173
+#@ bohaute
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:627
+#: library/class/class-tgm-plugin-activation.php:174
+#@ bohaute
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:628
+#: library/class/class-tgm-plugin-activation.php:175
+#@ bohaute
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:629
+#: library/class/class-tgm-plugin-activation.php:177
+#: library/class/class-tgm-plugin-activation.php:1939
+#@ bohaute
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:630
+#, php-format
+#@ bohaute
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header.php:67
+#: library/bohaute.php:178
+#@ bohaute
+msgid "The Main Menu"
+msgstr ""
+
+#: home-content/home-blog.php:7
+#: single.php:13
+#@ bohaute
+msgid ", "
+msgstr ""
+
+#: home-content/home-blog.php:8
+#: single.php:14
+#, php-format
+#@ bohaute
+msgid "%s"
+msgstr ""
+
+#: home-content/home-blog.php:14
+#@ bohaute
+msgid "Read More &raquo;"
+msgstr ""
+
+#: library/admin.php:39
+#@ bohaute
+msgid "j F Y @ g:i a"
+msgstr ""
+
+#: library/admin.php:51
+#@ bohaute
+msgid "Recently on Themble (Customize on admin.php)"
+msgstr ""
+
+#: library/bohaute.php:217
+#, php-format
+#@ bohaute
+msgid "Page %s"
+msgstr ""
+
+#: library/bohaute.php:251
+#@ bohaute
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: library/bohaute.php:296
+#@ bohaute
+msgid "Read "
+msgstr ""
+
+#: library/bohaute.php:296
+#@ bohaute
+msgid "Read more &raquo;"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:164
+#@ bohaute
+msgid "Something went wrong."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:176
+#@ bohaute
+msgid "Return to the dashboard"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:179
+#, php-format
+#@ bohaute
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:180
+#@ bohaute
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:530
+#: library/class/class-tgm-plugin-activation.php:2156
+#@ bohaute
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1165
+#@ bohaute
+msgid "Private Repository"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1168
+#@ bohaute
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1173
+#@ bohaute
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1176
+#@ bohaute
+msgid "Required"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1176
+#@ bohaute
+msgid "Recommended"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1179
+#@ bohaute
+msgid "Not Installed"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1181
+#@ bohaute
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1286
+#: library/class/class-tgm-plugin-activation.php:1394
+#@ bohaute
+msgid "Install"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1308
+#: library/class/class-tgm-plugin-activation.php:1395
+#@ bohaute
+msgid "Activate"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1357
+#, php-format
+#@ bohaute
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1373
+#@ bohaute
+msgid "Plugin"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1374
+#@ bohaute
+msgid "Source"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1375
+#@ bohaute
+msgid "Type"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1376
+#@ bohaute
+msgid "Status"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: library/class/class-tgm-plugin-activation.php:1630
+#: library/class/class-tgm-plugin-activation.php:178
+#@ bohaute
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/class/class-tgm-plugin-activation.php:1922
+#@ bohaute
+msgid "Install package not available."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1923
+#, php-format
+#@ bohaute
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1924
+#@ bohaute
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1925
+#@ bohaute
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1926
+#@ bohaute
+msgid "Plugin install failed."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1927
+#@ bohaute
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:1938
+#@ bohaute
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2052
+#@ bohaute
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2053
+#, php-format
+#@ bohaute
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2053
+#: library/class/class-tgm-plugin-activation.php:2062
+#@ bohaute
+msgid "Show Details"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2053
+#: library/class/class-tgm-plugin-activation.php:2062
+#@ bohaute
+msgid "Hide Details"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2054
+#@ bohaute
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2055
+#, php-format
+#@ bohaute
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2059
+#@ bohaute
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2060
+#, php-format
+#@ bohaute
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2061
+#, php-format
+#@ bohaute
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2062
+#, php-format
+#@ bohaute
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2063
+#@ bohaute
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/class/class-tgm-plugin-activation.php:2064
+#, php-format
+#@ bohaute
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: search.php:8
+#@ bohaute
+msgid "Search Results for:"
+msgstr ""
+
+#: sidebar-page.php:16
+#: sidebar.php:16
+#@ bohaute
+msgid "This is a widget ready area. Add some and they will appear here."
+msgstr ""
+
+#: single.php:28
+#@ bohaute
+msgid "TAGS: "
+msgstr ""
+
+#: single.php:37
+#@ bohaute
+msgid "You may also like "
+msgstr ""
+

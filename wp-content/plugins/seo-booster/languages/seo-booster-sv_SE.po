@@ -1,0 +1,2614 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SEO Booster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-23 19:24-0400\n"
+"PO-Revision-Date: 2018-07-23 19:25-0400\n"
+"Last-Translator: Lars Koudal <lars@koudal.dk>\n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.0.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/class-404-pages-list-table.php:26
+msgid "Nothing found."
+msgstr "Hittar inget."
+
+# @ seobooster2
+#: inc/class-404-pages-list-table.php:33
+#: inc/class-backlink-pages-list-table.php:29
+#: inc/class-forgotten-pages-list-table.php:19
+msgctxt "Column label"
+msgid "Landing Page"
+msgstr "Målsida"
+
+# @ seobooster2
+#: inc/class-404-pages-list-table.php:34
+#: inc/class-backlink-pages-list-table.php:30
+msgctxt "Column label"
+msgid "Visitors"
+msgstr "Besökare"
+
+# @ seobooster2
+#: inc/class-404-pages-list-table.php:35
+msgctxt "Column label"
+msgid "Latest Visit"
+msgstr "Senaste besök"
+
+# @ seobooster2
+#: inc/class-404-pages-list-table.php:36
+msgctxt "Column label"
+msgid "Referrer"
+msgstr "Hänvisat från"
+
+#: inc/class-404-pages-list-table.php:91
+msgctxt "List table row action"
+msgid "Delete"
+msgstr "Radera"
+
+#: inc/class-404-pages-list-table.php:106
+#: inc/class-audit-list-table__premium_only.php:58
+#: inc/class-backlink-pages-list-table.php:145
+#: inc/class-forgotten-pages-list-table.php:29
+msgctxt "List table bulk action"
+msgid "Delete"
+msgstr "Radera"
+
+# @ seobooster2
+#: inc/class-404-pages-list-table.php:115
+msgid "Resetting 404 Errors"
+msgstr "Nollställ 404 Fel"
+
+#: inc/class-audit-list-table__premium_only.php:19
+#: inc/class-crawled-pages-list-table.php:19
+#: inc/class-internallinks-list-table__premium_only.php:19
+msgid "No crawl data available."
+msgstr "Inga genomsökningsdata tillgängliga."
+
+#: inc/class-audit-list-table__premium_only.php:47
+#: inc/class-crawled-pages-list-table.php:25
+#: inc/class-internallinks-list-table__premium_only.php:25
+msgctxt "Column label"
+msgid "URL"
+msgstr "Webbadress"
+
+#: inc/class-audit-list-table__premium_only.php:48
+msgctxt "Column label"
+msgid "Status"
+msgstr ""
+
+#: inc/class-audit-list-table__premium_only.php:49
+msgctxt "Column label"
+msgid "PageSpeed Insights"
+msgstr ""
+
+#: inc/class-audit-list-table__premium_only.php:50
+msgctxt "Column label"
+msgid "Last audit"
+msgstr ""
+
+#: inc/class-audit-list-table__premium_only.php:93
+#: inc/class-backlink-pages-list-table.php:74
+msgid "Not checked yet"
+msgstr "Inte kontrollerad ännu"
+
+# @ seobooster2
+#: inc/class-audit-list-table__premium_only.php:95
+#: inc/class-backlink-pages-list-table.php:76
+#: inc/class-forgotten-pages-list-table.php:138
+#: inc/class-forgotten-pages-list-table.php:140
+#: inc/class-forgotten-pages-list-table.php:142 seo-booster.php:3032
+msgid "ago"
+msgstr "sedan"
+
+#: inc/class-audit-list-table__premium_only.php:147
+msgid "Resetting Audit"
+msgstr ""
+
+#: inc/class-audit-list-table__premium_only.php:273
+msgid "Suggestions"
+msgstr ""
+
+# @ seobooster2
+#: inc/class-backlink-pages-list-table.php:23
+msgctxt "Column label"
+msgid "Verified"
+msgstr "Verifierad"
+
+# @ seobooster2
+#: inc/class-backlink-pages-list-table.php:27
+msgctxt "Column label"
+msgid "Link From"
+msgstr "Länk från"
+
+# @ seobooster2
+#: inc/class-backlink-pages-list-table.php:28
+msgctxt "Column label"
+msgid "Screenshot"
+msgstr "Skärmdump"
+
+#: inc/class-backlink-pages-list-table.php:31
+msgctxt "Column label"
+msgid "First Visit"
+msgstr "Första besök"
+
+# @ seobooster2
+#: inc/class-backlink-pages-list-table.php:35
+msgctxt "Column label"
+msgid "Anchor Text"
+msgstr "Ankartext"
+
+# @ seobooster2
+#: inc/class-backlink-pages-list-table.php:36
+msgctxt "Column label"
+msgid "Last Checked"
+msgstr "Senast kontrollerad"
+
+#: inc/class-backlink-pages-list-table.php:37
+msgctxt "Column label"
+msgid "HTTP Status"
+msgstr "HTTP Status"
+
+# @ seobooster2
+#: inc/class-backlink-pages-list-table.php:60 seo-booster-seobooster2.php:434
+msgid "Verified"
+msgstr "Verifierad"
+
+#: inc/class-backlink-pages-list-table.php:63
+msgid "Not found"
+msgstr "Hittas inte"
+
+#: inc/class-crawled-pages-list-table.php:26
+#: inc/class-internallinks-list-table__premium_only.php:26
+msgctxt "Column label"
+msgid "Robot Crawls"
+msgstr "Antal genomsökningar"
+
+#: inc/class-crawled-pages-list-table.php:27
+#: inc/class-internallinks-list-table__premium_only.php:27
+msgctxt "Column label"
+msgid "Last Crawled"
+msgstr ""
+
+#: inc/class-crawled-pages-list-table.php:28
+#: inc/class-internallinks-list-table__premium_only.php:28
+msgctxt "Column label"
+msgid "Crawled by"
+msgstr "Genomsökt av"
+
+#: inc/class-crawled-pages-list-table.php:77
+#: inc/class-internallinks-list-table__premium_only.php:77
+msgid "Resetting Crawl Data"
+msgstr "Nollställ genomsökt data"
+
+#: inc/class-crawled-pages-list-table.php:140
+#: inc/class-internallinks-list-table__premium_only.php:140
+#, php-format
+msgid "%d visit"
+msgid_plural "%d visits"
+msgstr[0] "%d besök"
+msgstr[1] "%d besök"
+
+# @ seobooster2
+#: inc/class-forgotten-pages-list-table.php:20
+msgctxt "Column label"
+msgid "Latest SE Visitor"
+msgstr "Senaste Sökmotor besök"
+
+# @ seobooster2
+#: inc/class-forgotten-pages-list-table.php:21
+msgctxt "Column label"
+msgid "Keywords"
+msgstr "Sökord"
+
+# @ seobooster2
+#: inc/class-forgotten-pages-list-table.php:142
+msgid "First visit:"
+msgstr "Första besök:"
+
+#: inc/class-forgotten-pages-list-table.php:153
+msgid "Last crawled by"
+msgstr "Senast genomsökt av"
+
+#: inc/proonly.php:7
+msgid "SEO Booster PRO - 30 Day Trial!"
+msgstr ""
+
+#: inc/proonly.php:14
+msgid "Extra features in Premium"
+msgstr ""
+
+#: inc/proonly.php:16
+msgid "NEW: Automatic PageSpeed Insights audits (requires free Google api key)"
+msgstr ""
+
+#: inc/proonly.php:17
+msgid "NEW: Cache the keyword to links for more speed."
+msgstr ""
+
+#: inc/proonly.php:18
+msgid ""
+"Keyword injection - Put the most popular keyword in the &lt;title&gt tag."
+msgstr ""
+
+#: inc/proonly.php:19
+msgid ""
+"Popular Keywords - List the most popular keywords in the bottom of each post."
+msgstr ""
+
+#: inc/proonly.php:20
+msgid "Crawler visits - When and where search engine robots visit."
+msgstr "Sökrobotbesök - När och var sökrobotrobotar kommer på besök."
+
+#: inc/proonly.php:21
+msgid "Get more details about the backlinks to your website."
+msgstr ""
+
+#: inc/proonly.php:22
+msgid "Backlinks are verified regularly."
+msgstr "Bakåtlänkar verifieras regelbundet."
+
+#: inc/proonly.php:23
+msgid "Optional - Keyword in title tag."
+msgstr "Valfritt - Sökord i titeltagg."
+
+#: inc/proonly.php:25
+msgid "Export keywords, backlinks and 404 errors to .csv files."
+msgstr "Exportera sökord, bakåtlänkar och 404 fel till .csv-filer."
+
+#: inc/proonly.php:26
+msgid "You bribe your way out of seeing this message :-)"
+msgstr "Du mutar din väg ut ur det här meddelandet :-)"
+
+#: inc/proonly.php:27
+msgid "Get premium support."
+msgstr "Få premium support."
+
+#: inc/proonly.php:33
+msgid "Start 30 Day Trial"
+msgstr ""
+
+#: inc/proonly.php:35
+msgid "See prices"
+msgstr "Se priser"
+
+#: inc/proonly.php:38
+msgid "Mini FAQ"
+msgstr "Mini FAQ"
+
+#: inc/proonly.php:40
+msgid ""
+"We ask for your payment information to reduce fraud and provide a seamless "
+"subscription experience."
+msgstr ""
+
+#: inc/proonly.php:41
+msgid "CANCEL ANYTIME before the trial ends to avoid being charged."
+msgstr ""
+
+#: inc/proonly.php:42
+msgid "We will send you an email reminder BEFORE your trial ends."
+msgstr ""
+
+#: inc/proonly.php:43
+msgid "We accept Visa, Mastercard, American Express and PayPal."
+msgstr "Vi accepterar Visa, Mastercard, American Express och PayPal."
+
+#: inc/proonly.php:44
+msgid "Different plans - monthly, yearly or lifetime."
+msgstr "Olika alternativ - månad, årlig eller livstid."
+
+#: inc/proonly.php:45
+msgid "Upgrade, downgrade or cancel any time."
+msgstr ""
+
+# @ seobooster2
+#: seo-booster-404s.php:5 seo-booster-audit__premium_only.php:5
+#: seo-booster-backlinks.php:5 seo-booster-crawled-pages__premium_only.php:5
+#: seo-booster-forgotten.php:5 seo-booster-internallinks__premium_only.php:5
+#: seo-booster-keywords.php:5 seo-booster-seobooster2.php:5
+#: seo-booster-settings.php:6
+msgid "You are not allowed to update plugins on this blog."
+msgstr "Du har inte tillstånd att uppdatera plugins på denna blogg."
+
+# @ seobooster2
+#: seo-booster-keywords.php:35 seo-booster.php:2832 seo-booster.php:2999
+msgid "Keywords"
+msgstr "Sökord"
+
+# @ seobooster2
+#: seo-booster-keywords.php:41 seo-booster.php:1894
+msgid "Loading..."
+msgstr "Laddar ..."
+
+#: seo-booster-keywords.php:56 seo-booster-settings.php:399
+#: seo-booster-settings.php:537 seo-booster-settings.php:552
+#: seo-booster-settings.php:683 seo-booster-settings.php:709
+#: seo-booster-settings.php:747 seo-booster-settings.php:796
+#: seo-booster-settings.php:813 seo-booster-settings.php:896
+msgid "Quick help"
+msgstr ""
+
+# @ seobooster2
+#: seo-booster-keywords.php:58
+msgid "Filtering options"
+msgstr "Filtreringsalternativ"
+
+# @ seobooster2
+#: seo-booster-keywords.php:59
+msgid "Hide internal searches"
+msgstr "Dölj interna sökningar"
+
+# @ seobooster2
+#: seo-booster-keywords.php:62
+msgid "Show all keywords"
+msgstr "Visa alla sökorden"
+
+# @ seobooster2
+#: seo-booster-keywords.php:63
+msgid "Show only known keywords"
+msgstr "Visa bara kända sökord"
+
+# @ seobooster2
+#: seo-booster-keywords.php:64
+msgid "Show only unknown traffic"
+msgstr "Visa bara okänd trafik"
+
+# @ seobooster2
+#: seo-booster-keywords.php:72 seo-booster-keywords.php:85
+#: seo-booster-seobooster2.php:343 seo-booster-seobooster2.php:357
+msgid "Keyword"
+msgstr "Sökord"
+
+# @ seobooster2
+#: seo-booster-keywords.php:73 seo-booster-keywords.php:86
+#: seo-booster-seobooster2.php:344 seo-booster-seobooster2.php:358
+msgid "Landing Page"
+msgstr "Målsida"
+
+# @ seobooster2
+#: seo-booster-keywords.php:74 seo-booster-keywords.php:87
+#: seo-booster-keywords.php:112 seo-booster-keywords.php:135
+#: seo-booster-seobooster2.php:117
+msgid "Search Engine"
+msgstr "Sökmotor"
+
+# @ seobooster2
+#: seo-booster-keywords.php:75 seo-booster-keywords.php:88
+#: seo-booster-seobooster2.php:117 seo-booster-seobooster2.php:345
+#: seo-booster-seobooster2.php:359 seo-booster-seobooster2.php:434
+#: seo-booster-seobooster2.php:435 seo-booster-seobooster2.php:436
+#: seo-booster.php:3000
+msgid "Visits"
+msgstr "Antal besök"
+
+# @ seobooster2
+#: seo-booster-keywords.php:76 seo-booster-keywords.php:89
+msgid "First Visit"
+msgstr "Första besök"
+
+# @ seobooster2
+#: seo-booster-keywords.php:77 seo-booster-keywords.php:90
+msgid "Latest Visit"
+msgstr "Senaste besök"
+
+# @ seobooster2
+#: seo-booster-keywords.php:107 seo-booster-seobooster2.php:376
+#: seo-booster-seobooster2.php:394
+msgid "Top Search Engines"
+msgstr "Bästa sökmotorerna"
+
+# @ seobooster2
+#: seo-booster-keywords.php:111 seo-booster-keywords.php:134
+msgid "Position"
+msgstr "Position"
+
+# @ seobooster2
+#: seo-booster-keywords.php:113 seo-booster-keywords.php:136
+msgid "Different Keywords"
+msgstr "Olika sökord"
+
+# @ seobooster2
+#: seo-booster-keywords.php:114 seo-booster-keywords.php:137
+#: seo-booster-seobooster2.php:385
+msgid "Visitors"
+msgstr "Besökare"
+
+#: seo-booster-keywords.php:152 views/404-pages.php:54
+#: views/backlink-pages.php:33
+msgid "Export to .csv"
+msgstr "Export till .csv"
+
+# @ seobooster2
+#: seo-booster-log.php:11 seo-booster-seobooster2.php:61
+#: seo-booster-settings.php:282
+msgid "Visit cleverplugins.com"
+msgstr "Besök cleverplugins.com"
+
+# @ seobooster2
+#: seo-booster-log.php:13 seo-booster.php:2854
+msgid "Log"
+msgstr "Logg"
+
+# @ seobooster2
+#: seo-booster-log.php:26
+msgid "Log emptied manually"
+msgstr "Logg tömd manuellt"
+
+# @ seobooster2
+#: seo-booster-log.php:49 seo-booster-log.php:84
+msgid "Time ago"
+msgstr "Senast"
+
+# @ seobooster2
+#: seo-booster-log.php:50 seo-booster-log.php:85
+msgid "Event"
+msgstr "Händelse"
+
+# @ seobooster2
+#: seo-booster-log.php:93
+msgid "Reset Log"
+msgstr "Nollställ logg"
+
+# @ seobooster2
+#: seo-booster-log.php:102
+msgid "No activity logged yet."
+msgstr "Ingen aktivitet loggad ännu."
+
+#: seo-booster-seobooster2.php:74
+msgid "Quick Overview"
+msgstr ""
+
+#: seo-booster-seobooster2.php:75
+#, php-format
+msgid ""
+"Since installation plugin has recorded <span>%s</span> keywords found from "
+"visitors and <span>%s</span> sources."
+msgstr ""
+
+#: seo-booster-seobooster2.php:82
+msgid "Latest detected keywords:"
+msgstr ""
+
+#: seo-booster-seobooster2.php:93
+msgid "See all in the <a href=\"?page=sb2_keywords\">Keywords page</a>."
+msgstr ""
+
+#: seo-booster-seobooster2.php:196
+msgid "Uncluttered view of what content brings traffic."
+msgstr "Få en klar bild av vilket innehåll som ger trafik."
+
+#: seo-booster-seobooster2.php:197
+msgid "Overview that regular analytics software won't give you."
+msgstr "En överblick som andra analysprogram inte ger dig."
+
+#: seo-booster-seobooster2.php:198
+msgid "Overview of where you should work on SEO to improve traffic."
+msgstr "Översikt över vilken SEO du ska arbeta på för att förbättra trafiken."
+
+#: seo-booster-seobooster2.php:204
+#, php-format
+msgid "Tracking visitors from %1$s keyword sources."
+msgstr ""
+
+#: seo-booster-seobooster2.php:213
+msgid "Explore the plugin"
+msgstr "Utforska plugin"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:215
+msgid "The Settings"
+msgstr "Inställningar"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:216
+msgid "Keyword Details"
+msgstr "Sökordsdetaljer"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:217
+msgid "Backlink Details"
+msgstr "Detaljer bakåtlänkar"
+
+#: seo-booster-seobooster2.php:218 views/crawled-pages.php:6
+msgid "Crawled Pages"
+msgstr "Genomsökta sidor"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:219 seo-booster-settings.php:788
+#: seo-booster.php:2852 views/404-pages.php:6
+msgid "404 Errors"
+msgstr "404 Fel"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:220
+msgid "Forgotten Pages"
+msgstr "Glömda sidor"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:221
+msgid "The Log"
+msgstr "Loggen"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:225
+msgid "First Steps"
+msgstr "Första stegen"
+
+#: seo-booster-seobooster2.php:227 seo-booster.php:2097
+msgid "Knowledge Base"
+msgstr "Kunskapsbas"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:228
+msgid "Check the Settings"
+msgstr "Kontrollera inställningarna"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:229
+msgid "Add the widgets"
+msgstr "Lägg till widgets"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:230
+msgid "View the log"
+msgstr "Visa loggen"
+
+#: seo-booster-seobooster2.php:245 seo-booster-settings.php:337
+#, php-format
+msgid ""
+"Never miss an important update. Opt-in to our security and feature updates "
+"notifications, and non-sensitive diagnostic tracking. <a href=\"%s\">Click "
+"here</a>"
+msgstr ""
+"Missa aldrig en viktig uppdatering. Anmäl dig till våra säkerhets- och "
+"funktionsuppdateringar och icke-känslig diagnostisk spårning. <a href=\"%s"
+"\">Klicka här</a>"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:272 seo-booster-seobooster2.php:288
+msgid "Visitors from Search Engines"
+msgstr "Besökare från sökmotorer"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:338 seo-booster.php:2995
+msgid "Top Keywords"
+msgstr "Bästa sökorden"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:385
+msgid "Day"
+msgstr "Dag"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:423
+msgid "Backlink Stats"
+msgstr "Statistik bakåtlänkar"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:424
+msgid "Details of the backlinks recorded."
+msgstr "Detaljer för registrerade bakåtlänkar."
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:435
+msgid "Ignored"
+msgstr "Ignoreras"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:436
+msgid "Total"
+msgstr "Totalt"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:439
+msgid ""
+"Verified means SEO Booster has verified the link, and if possible collected "
+"anchor text and other details. Ignored links are backlinks that do not have "
+"a link back or are filtered for other reasons."
+msgstr ""
+"Verifierad innebär att SEO Booster har verifierat länken och om möjligt "
+"insamlat ankartext och andra detaljer. Ignorerade länkar är bakåtlänkar som "
+"inte har en länk tillbaka eller filtreras av andra skäl."
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:451
+msgid "Top Linking Domains"
+msgstr "Mest länkade domäner"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:456 seo-booster-seobooster2.php:472
+msgid "Domain"
+msgstr "Domän"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:457 seo-booster-seobooster2.php:473
+msgid "Total Links"
+msgstr "Totalt antal länkar"
+
+# @ seobooster2
+#: seo-booster-seobooster2.php:458 seo-booster-seobooster2.php:474
+msgid "Total Visits"
+msgstr "Totalt antal besök"
+
+#: seo-booster-settings.php:232
+#, php-format
+msgid "%s old keywords have been migrated."
+msgstr ""
+
+# @ seobooster2
+# @ General
+#: seo-booster-settings.php:284 seo-booster.php:1600 seo-booster.php:2856
+msgid "Settings"
+msgstr "Inställningar"
+
+#: seo-booster-settings.php:351
+msgid ""
+"Thank you for activating, please check your email to complete the process."
+msgstr ""
+"Tack för att du aktiverar, kolla din e-post för att slutföra processen."
+
+#: seo-booster-settings.php:359
+#, php-format
+msgid ""
+"To get help with the settings check out the <a href=\"%s\" target=\"_blank"
+"\">Knowledgebase</a>."
+msgstr ""
+
+#: seo-booster-settings.php:372
+msgid "Migrate old database tables"
+msgstr ""
+
+#: seo-booster-settings.php:374
+#, php-format
+msgid "%s keyword data from SEO Booster PRO v.1 found!"
+msgstr ""
+
+#: seo-booster-settings.php:376
+msgid ""
+"The button below migrates the old data to the new structure. I suggest "
+"taking a backup before doing this."
+msgstr ""
+
+#: seo-booster-settings.php:378
+msgid ""
+"Conversion is done in batches of 10.000 and not all data can be converted."
+msgstr ""
+
+#: seo-booster-settings.php:381
+msgid "Migrate old data"
+msgstr ""
+
+#: seo-booster-settings.php:398
+msgid "Auto link keywords"
+msgstr "Länka sökord automatiskt"
+
+#: seo-booster-settings.php:405
+msgid "Enable"
+msgstr "Aktivera"
+
+#: seo-booster-settings.php:409 seo-booster-settings.php:415
+msgid "Change keywords in text to links to relevant pages on your site."
+msgstr "Gör sökord i text till länkar för relevanta sidor på din webbplats."
+
+# @ seobooster2
+#. Plugin Name of the plugin/theme
+#: seo-booster-settings.php:429 seo-booster.php:208 seo-booster.php:2827
+#: seo-booster.php:2828 seo-booster.php:2983
+msgid "SEO Booster"
+msgstr "SEO Booster"
+
+#: seo-booster-settings.php:434 seo-booster-settings.php:440
+msgid "Use keywords from SEO Booster."
+msgstr "Använd sökord från SEO Booster."
+
+#: seo-booster-settings.php:443
+msgid ""
+"Use the keyword data gathered by SEO Booster to generate internal links "
+"automatically."
+msgstr ""
+"Använd sökordsdata insamlad av SEO Booster för att automatiskt generera "
+"interna länkar."
+
+#: seo-booster-settings.php:457 seo-booster-settings.php:475
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+#: seo-booster-settings.php:460
+msgid "Yoast WordPress SEO Plugin either not installed or activated."
+msgstr ""
+"Yoast WordPress SEO Plugin är antingen inte installerat eller aktiverat."
+
+#: seo-booster-settings.php:481 seo-booster-settings.php:487
+msgid "Use Focus Keyword from Yoast SEO plugin"
+msgstr "Använd \"Focus Keyword\" från Yoast SEO plugin"
+
+#: seo-booster-settings.php:489
+msgid ""
+"Use the \"Focus Keyword\" on individual pages as a source for creating the "
+"internal links."
+msgstr ""
+"Använd \"Focus Keyword\" på enskilda sidor som en källa för att skapa de "
+"interna länkarna."
+
+#: seo-booster-settings.php:504
+msgid "Maximum keywords->links"
+msgstr ""
+
+#: seo-booster-settings.php:508
+msgid ""
+"Maximum amount of keyword to link replacements. This limit not include "
+"existing links in the content."
+msgstr ""
+
+#: seo-booster-settings.php:515 seo-booster.php:2060
+msgid "Filter out keywords"
+msgstr "Filtrera sökord"
+
+#: seo-booster-settings.php:519
+msgid ""
+"Enter keywords to be filtered out. Separate keywords with comma or linebreak."
+msgstr ""
+
+#: seo-booster-settings.php:525 seo-booster.php:2068
+msgid "Ignore internal searches"
+msgstr "Ignorera interna sökningar"
+
+#: seo-booster-settings.php:529
+msgid "Do not monitor regular searches on your website."
+msgstr "Övervaka inte vanliga sökningar på din webbplats."
+
+#: seo-booster-settings.php:535
+msgid "Do not monitor searches made directly on your site"
+msgstr "Övervaka inte sökningar gjorda direkt på din webbplats"
+
+#: seo-booster-settings.php:538
+msgid ""
+"People searching internally on your site and clicking the results can also "
+"help gather keyword information. Turn this on to ignore."
+msgstr ""
+"Personer som söker internt på din webbplats och klickar på resultaten kan "
+"också hjälpa till att samla in sökordsinformation. Slå på detta för att "
+"ignorera."
+
+#: seo-booster-settings.php:551 seo-booster.php:2076
+msgid "Automatic Tagging"
+msgstr "Automatisk taggning"
+
+#: seo-booster-settings.php:558
+msgid "Turn on automatic tagging:"
+msgstr "Aktivera automatisk taggning:"
+
+#: seo-booster-settings.php:565
+msgid ""
+"Tags can be created automatically using the search terms that visitors use. "
+"This works with both internal searches and visitors from search engines."
+msgstr ""
+"Taggar kan skapas automatiskt med hjälp av de söktermer som besökare "
+"använder. Detta fungerar med både interna sökningar och besökare från "
+"sökmotorer."
+
+# @ seobooster2
+#: seo-booster-settings.php:572
+msgid "Tag Related Posts:"
+msgstr "Tagga liknande inlägg:"
+
+# @ seobooster2
+#: seo-booster-settings.php:579
+msgid ""
+"SEO Booster will attempt to find related posts and also tag with the search "
+"term."
+msgstr ""
+"SEO Booster kommer att försöka hitta relaterade inlägg och även märka dem "
+"med söktermen."
+
+#  seobooster2
+# @ seobooster2
+#: seo-booster-settings.php:589
+msgid "Choose Taxonomy:"
+msgstr "Välj Taxonomi:"
+
+# @ seobooster2
+#: seo-booster-settings.php:612
+msgid ""
+"If you use Custom Post Types on your site, they might not be configured to "
+"use the taxonomy you have chosen above."
+msgstr ""
+"Om du använder egna posttyper på din webbplats, är det inte säkert att de är "
+"konfigurerade för att använda den taxonomi du valt ovan."
+
+# @ seobooster2
+#: seo-booster-settings.php:613
+msgid "By clicking this checkbox, the taxonomy is properly 'assigned'."
+msgstr ""
+"Genom att klicka på den här kryssrutan är taxonomi korrekt 'tilldelad'."
+
+# @ seobooster2
+#: seo-booster-settings.php:621
+msgid "Assign Custom Post Types:"
+msgstr "Använd egna posttyper:"
+
+# @ seobooster2
+#: seo-booster-settings.php:634
+msgid ""
+"Turning this on ensures that the chosen taxonomy will be used on all custom "
+"post types listed below."
+msgstr ""
+"Aktivera för att säkerställa att den valda taxonomin används på alla egna "
+"posttyper som anges nedan."
+
+# @ seobooster2
+#: seo-booster-settings.php:635
+msgid "Custom Post Types"
+msgstr "Egna posttyper"
+
+# @ seobooster2
+#: seo-booster-settings.php:643
+msgid "Minimum length of term"
+msgstr "Minsta längd på term"
+
+# @ seobooster2
+#: seo-booster-settings.php:647
+msgid ""
+"If the number of characters in the query is less than the specified number, "
+"no tag (taxonomy term) will be created."
+msgstr ""
+"Om antalet tecken i frågan är mindre än det angivna antalet, kommer ingen "
+"etikett (taxonomi term) att skapas."
+
+# @ seobooster2
+#: seo-booster-settings.php:658
+msgid "Maximum length of term"
+msgstr "Maximal längd på term"
+
+# @ seobooster2
+#: seo-booster-settings.php:662
+msgid ""
+"If the number of characters in the query is MORE than the specified number, "
+"no tag (taxonomy term) will be created."
+msgstr ""
+"Om antalet tecken i frågan är FLER än det angivna antalet, kommer ingen "
+"etikett (taxonomi term) att skapas."
+
+# @ seobooster2
+#: seo-booster-settings.php:670
+msgid "Maximum tags per post"
+msgstr "Maximalt antal taggar per post"
+
+#: seo-booster-settings.php:682
+msgid "(PRO) &lt;title&gt;-tag"
+msgstr "(PRO) &lt;title&gt;-tagg"
+
+#: seo-booster-settings.php:689
+msgid "Insert keyword bringning most traffic in &lt;title&gt"
+msgstr "Infoga sökord som ger mest trafik i &lt;title&gt"
+
+# @ seobooster2
+#: seo-booster-settings.php:695
+msgid "No"
+msgstr "Nej"
+
+#: seo-booster-settings.php:697
+msgid "Start of the &lt;title&gt;"
+msgstr ""
+
+#: seo-booster-settings.php:699
+msgid "End of the &lt;title&gt;"
+msgstr "Slutet av &lt;title&gt;"
+
+#: seo-booster-settings.php:701
+msgid ""
+"Allows you to insert the most popular keyword for that page in the &lt;"
+"title&gt;-tag."
+msgstr ""
+"Gör det möjligt för dig att lägga till de mest populära sökorden för sidan i "
+"&lt;title&gt;-taggen."
+
+#: seo-booster-settings.php:708
+msgid "(PRO) Popular Keywords"
+msgstr ""
+
+#: seo-booster-settings.php:715
+msgid "Append Keywords"
+msgstr ""
+
+#: seo-booster-settings.php:723
+msgid "Append the most popular keywords to the end of each page."
+msgstr ""
+
+#: seo-booster-settings.php:729
+msgid "Title"
+msgstr ""
+
+#: seo-booster-settings.php:732
+msgid "Popular searches to this page"
+msgstr ""
+
+#: seo-booster-settings.php:733
+msgid ""
+"Title above list of keywords. Can be empty. Default <code>Popular searches "
+"to this page</code>"
+msgstr ""
+
+# @ seobooster2
+#: seo-booster-settings.php:746 seo-booster.php:2084
+msgid "Weekly Email Reports"
+msgstr "Veckovisa E-postrapporter"
+
+# @ seobooster2
+#: seo-booster-settings.php:752
+msgid "Weekly emails:"
+msgstr "Veckovisa e-postmeddelanden:"
+
+# @ seobooster2
+#: seo-booster-settings.php:756
+msgid ""
+"Send a weekly email with information of keyword stats, new backlinks and 404 "
+"errors detected the past week."
+msgstr ""
+"Skicka varje vecka ett e-postmeddelande med sökordsstatistik, nya "
+"bakåtlänkar och 404 fel som upptäckts den senaste veckan."
+
+# @ seobooster2
+#: seo-booster-settings.php:763
+msgid "Email recipient"
+msgstr "E-postmottagare"
+
+# @ seobooster2
+#: seo-booster-settings.php:767
+msgid "Email recipent."
+msgstr "E-postmottagare."
+
+# @ seobooster2
+#: seo-booster-settings.php:774
+msgid "DEBUG Logging:"
+msgstr "Logga fel:"
+
+# @ seobooster2
+#: seo-booster-settings.php:781
+msgid ""
+"If turned on, the log will have debug information that can be helpful for "
+"finding errors or configuration issues."
+msgstr ""
+"Om aktiverad, kommer loggen att ha felsökningsinformation som kan vara till "
+"hjälp för att hitta fel eller konfigurationsproblem."
+
+#: seo-booster-settings.php:797
+msgid "If turned on, 404 errors will be monitored."
+msgstr ""
+
+#: seo-booster-settings.php:812
+msgid "BETA FEATURES"
+msgstr ""
+
+#: seo-booster-settings.php:819
+msgid "Pagespeed Audits"
+msgstr ""
+
+#: seo-booster-settings.php:823
+msgid "If enabled uses Google API to make pagespeed tests for your website."
+msgstr ""
+
+#: seo-booster-settings.php:829
+msgid "API Key"
+msgstr ""
+
+#: seo-booster-settings.php:833
+msgid "API key provided by Google."
+msgstr ""
+
+#: seo-booster-settings.php:850
+msgid "Delete data on deactivate:"
+msgstr "Radera data vid avaktivering:"
+
+#: seo-booster-settings.php:857
+msgid ""
+"Turn this on to delete all data when deactivating the plugin. This cannot be "
+"undone."
+msgstr ""
+"Aktivera detta för att radera all data när du avaktiverar denna plugin. "
+"Detta kan inte göras ogjort."
+
+#: seo-booster-settings.php:874
+msgid "Tools"
+msgstr ""
+
+#: seo-booster-settings.php:881
+msgid "Database Update"
+msgstr ""
+
+#: seo-booster-settings.php:884
+msgid "Run Update Database"
+msgstr "Kör uppdatering av databasen"
+
+#: seo-booster-settings.php:885
+msgid ""
+"If you need to manually run the database updates. No need to use unless "
+"directed by support."
+msgstr ""
+"Om du behöver köra databasuppdateringarna manuellt. Behöver inte användas "
+"annat än på uppmaning av support."
+
+#: seo-booster-settings.php:891
+msgid "Guided Tour"
+msgstr "Guidad tur"
+
+#: seo-booster-settings.php:895
+msgid "See Guided Tour"
+msgstr "Se guidad tur"
+
+#: seo-booster-settings.php:897
+msgid "Click to start the Guided Tour again."
+msgstr "Klicka för att starta den guidade turen igen."
+
+#: seo-booster.php:221 seo-booster.php:229
+msgid "Automatic Linking"
+msgstr "Automatisk länkning"
+
+#: seo-booster.php:225
+msgid "Change keywords on this page to links."
+msgstr "Ändra sökord på den här sidan till länkar."
+
+#: seo-booster.php:227
+msgid "Remove the checkmark to disable on this page."
+msgstr "Avmarkera kryssrutan för att inaktivera på den här sidan."
+
+#: seo-booster.php:231
+msgid "This Page Keyword"
+msgstr "Sidans sökord"
+
+#: seo-booster.php:232
+msgid "Word or phrase"
+msgstr "Ord eller fras"
+
+#: seo-booster.php:233
+msgid "The keyword other pages will change in to a link to this page."
+msgstr "Sökordet som ändras till en länk på andra sidor till den här sidan."
+
+#: seo-booster.php:290
+#, php-format
+msgid "Error auditing <code>%s</code> - <code>%s</code> (%s)"
+msgstr ""
+
+#: seo-booster.php:328
+msgid "No Pagespeed API key provided. Enter API key to enable feature."
+msgstr ""
+
+#: seo-booster.php:372
+#, php-format
+msgid "Benchmarked <code>%s</code> in %s sec."
+msgstr ""
+
+#: seo-booster.php:726
+#, php-format
+msgid "(PRO) Keyword Cache generated - %s keywords in %s sec."
+msgstr ""
+
+#: seo-booster.php:734
+msgid "Auto link turned on, but no results found."
+msgstr ""
+
+#: seo-booster.php:740
+msgid "Auto link turned on, but no keyword found."
+msgstr ""
+
+#: seo-booster.php:812
+#, php-format
+msgid "Debug: <code>%d</code> auto link on %s (%s sec. %s loops)"
+msgstr "Felsökning: <code>%d</code> auto länk på %s (%s sek. %s loopar)"
+
+#: seo-booster.php:984
+#, php-format
+msgid ""
+"<strong>%s</strong> <span class=\"redir\">%s redirects to</span> <strong>%s</"
+"strong>"
+msgstr ""
+"<strong>%s</strong> <span class=\"redir\">%s omdirigerar till</span> <strong>"
+"%s</strong>"
+
+#: seo-booster.php:1012
+msgid ""
+"Too many redirects. When following redirects, libcurl hit the maximum amount."
+msgstr ""
+
+# @ seobooster2
+#: seo-booster.php:1112
+#, php-format
+msgid "New 404 - <a href=\"%s\" target=\"_blank\">%s</a> Referer: %s"
+msgstr "Ny 404 - <a href=\"%s\" target=\"_blank\">%s</a> Hänvisat från: %s"
+
+# @ seobooster2
+#: seo-booster.php:1114
+#, php-format
+msgid "New 404 - <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr "Ny 404 - <a href=\"%s\" target=\"_blank\">%s</a>"
+
+#: seo-booster.php:1243
+#, php-format
+msgid "Debug: Ignoring user agent <code>%s</code> "
+msgstr ""
+
+#: seo-booster.php:1339
+msgid "This is a local site, email not sent."
+msgstr "Detta är en lokal installation, e-post inte skickad."
+
+#: seo-booster.php:1367
+#, php-format
+msgid "Top 10 pages with Search Engine traffic the past %s days."
+msgstr "Topp 10 sidor med sökmotortrafik de senaste %s dagarna."
+
+#: seo-booster.php:1384
+#, php-format
+msgid "%s visit from search engines past %s days"
+msgid_plural "%s visits from search engines past %s days"
+msgstr[0] "%s besök från sökmotorer senaste %s dagarna"
+msgstr[1] "%s besök från sökmotorer senaste %s dagarna"
+
+#: seo-booster.php:1388
+msgid "New Keywords:"
+msgstr "Nya sökord:"
+
+#: seo-booster.php:1393
+msgid "Report from SEO Booster on "
+msgstr "Rapport från SEO Booster på "
+
+#: seo-booster.php:1394
+msgid "SEO Booster Dashboard"
+msgstr "SEO Booster Panel"
+
+# @ seobooster2
+#: seo-booster.php:1419
+#, php-format
+msgid "Status email was sent to %s"
+msgstr "Statusmeddelande skickades till %s"
+
+#: seo-booster.php:1424
+#, php-format
+msgid "No results for past %s days - no email was sent."
+msgstr ""
+"Inga resultat för senaste %s dag/ar - inget e-postmeddelande skickades."
+
+#: seo-booster.php:1454 seo-booster.php:1468 seo-booster.php:1512
+#: seo-booster.php:1529
+#, php-format
+msgid "Prepended keyword <code>%s</code> to title tag on %s %s"
+msgstr ""
+
+#: seo-booster.php:1458 seo-booster.php:1473 seo-booster.php:1517
+#: seo-booster.php:1534
+#, php-format
+msgid "Appended keyword <code>%s</code> to title tag on %s %s"
+msgstr ""
+
+#: seo-booster.php:1570
+#, php-format
+msgid "Prepended keyword <code>%s</code> to title tag on %s (SEOPress)"
+msgstr ""
+
+#: seo-booster.php:1575
+#, php-format
+msgid "Appended keyword <code>%s</code> to title tag on %s (SEOPress)"
+msgstr ""
+
+#: seo-booster.php:1601
+msgid "Knowledgebase"
+msgstr "Kunskapsbank"
+
+#: seo-booster.php:1808
+msgid "Not Available"
+msgstr "Inte tillgänglig"
+
+#: seo-booster.php:1871
+msgid "Support is only available in English and Danish."
+msgstr ""
+
+#: seo-booster.php:1892
+msgid "Search:"
+msgstr "Sök:"
+
+#: seo-booster.php:1893
+msgid "Showing _START_ to _END_ of _TOTAL_ keywords."
+msgstr "Visar _START_ till _END_ av _TOTAL_ sökord."
+
+#: seo-booster.php:1895
+msgid " - filtering from _MAX_ records"
+msgstr " - filtrerar från _MAX_ poster"
+
+#: seo-booster.php:1896
+msgid "Display _MENU_ keywords"
+msgstr "Visa _MENU_ sökord"
+
+#: seo-booster.php:1897
+msgid "Please wait - loading..."
+msgstr "Hämtar - Var god vänta..."
+
+#: seo-booster.php:1898
+msgid "No records to display"
+msgstr "Inga poster att visa"
+
+#: seo-booster.php:1899
+msgid "Previous"
+msgstr "Föregående"
+
+#: seo-booster.php:1900 seo-booster.php:1977 seo-booster.php:1987
+#: seo-booster.php:1997 seo-booster.php:2006 seo-booster.php:2014
+#: seo-booster.php:2023 seo-booster.php:2034 seo-booster.php:2044
+#: seo-booster.php:2054 seo-booster.php:2062 seo-booster.php:2070
+#: seo-booster.php:2078 seo-booster.php:2086
+msgid "Next"
+msgstr "Nästa"
+
+#: seo-booster.php:1901
+msgid "First"
+msgstr "Första"
+
+#: seo-booster.php:1902
+msgid "Last"
+msgstr "Sista"
+
+#: seo-booster.php:1903
+msgid "No data available in table"
+msgstr "Inga data tillgängliga"
+
+#: seo-booster.php:1974
+msgid "The Dashboard Page"
+msgstr "Panel-sidan"
+
+#: seo-booster.php:1975
+msgid ""
+"SEO Booster monitors traffic from hundreds of keyword sources, detects "
+"visitors from backlinks, 404 errors and much more."
+msgstr ""
+"SEO Booster övervakar trafik från hundratals sökordskällor, upptäcker "
+"besökare från bakåtlänkar, 404 fel och mycket mer."
+
+#: seo-booster.php:1976
+msgid "The Dashboard page gives you a quick overview."
+msgstr "Panel-sidan ger dig en snabb översikt."
+
+#: seo-booster.php:1983
+msgid "Keywords Module"
+msgstr "Sökordsmodulen"
+
+#: seo-booster.php:1984
+msgid "What your visitors searches for on search engines to find your website"
+msgstr ""
+"Vad dina besökare söker efter på sökmotorer för att hitta din webbplats"
+
+#: seo-booster.php:1985
+msgid ""
+"Keyword traffic from 400+ sources are monitored and keywords will show up "
+"here."
+msgstr ""
+"Sökordstrafik från över 400 källor övervakas och sökord kommer att visas här."
+
+#: seo-booster.php:1986
+msgid ""
+"Google and Yandex have stopped sharing information about what people search "
+"for, but there are hundreds of other search engines who still shares."
+msgstr ""
+"Google och Yandex har slutat dela information om vad folk söker efter, men "
+"det finns hundratals andra sökmotorer som fortfarande delar med sig."
+
+#: seo-booster.php:1993
+msgid "Filter Keywords"
+msgstr "Filtrering av sökord"
+
+#: seo-booster.php:1994
+msgid ""
+"All pages that receive search engine traffic are listed. Also when the "
+"keyword was not provided."
+msgstr ""
+"Alla sidor som tar emot sökmotortrafik är listade. Också när sökordet inte "
+"tillhandahölls."
+
+#: seo-booster.php:1995
+msgid "Use the filter settings to show only when keywords were provided."
+msgstr ""
+"Använd filterinställningarna för att visa endast när sökord tillhandahålls."
+
+#: seo-booster.php:1996
+msgid "You can also filter out internal searches."
+msgstr "Du kan även filtrera bort interna sökningar."
+
+#: seo-booster.php:2003
+msgid "Who links to you?"
+msgstr "Vem länkar till dig?"
+
+#: seo-booster.php:2004
+msgid ""
+"Every new visitor that comes from another website is monitored and listed "
+"here."
+msgstr ""
+"Varje ny besökare som kommer från en annan webbplats övervakas och listas "
+"här."
+
+#: seo-booster.php:2005
+msgid "Note - Pro version also checks each backlink and removes fake links."
+msgstr ""
+"Obs! Pro-versionen kontrollerar också varje bakåtlänk och tar bort falska "
+"länkar."
+
+#: seo-booster.php:2011 seo-booster.php:2850 views/forgotten-pages.php:6
+msgid "Lost Traffic"
+msgstr "Förlorad trafik"
+
+#: seo-booster.php:2012
+msgid ""
+"Discover pages that used to receive traffic from Search Engines, but no "
+"longer gets any traffic."
+msgstr ""
+"Upptäck sidor som brukade ta emot trafik från sökmotorer, men inte får någon "
+"trafik längre."
+
+#: seo-booster.php:2013
+msgid "Do not worry if you see nothing listed here. That is good."
+msgstr "Oroa dig inte om du inte ser något listat här. Det är bra."
+
+#: seo-booster.php:2020
+msgid "404 Errors!"
+msgstr "404 Fel!"
+
+#: seo-booster.php:2021
+msgid "404 Errors refers to wrong links or missing content on your website."
+msgstr ""
+"404 Fel hänvisar till felaktiga länkar eller saknat innehåll på din "
+"webbplats."
+
+#: seo-booster.php:2022
+msgid "You should fix any as soon as possible. Use this list to get started."
+msgstr ""
+"Du borde fixa dessa så snart som möjligt. Använd den här listan för att "
+"komma igång."
+
+#: seo-booster.php:2031
+msgid "Reset 404 errors"
+msgstr "Nollställ 404 Fel"
+
+#: seo-booster.php:2032
+msgid ""
+"Sometimes the list fills up very quickly and you want to get a clean "
+"overview."
+msgstr "Ibland fylls listan mycket snabbt och du vill få klar överblick."
+
+#: seo-booster.php:2033
+msgid "Use the Reset button to clean the list and start over."
+msgstr "Använd Nollställ-knappen för att rensa listan och börja om."
+
+#: seo-booster.php:2041
+msgid "Whats going on?"
+msgstr "Vad händer?"
+
+#: seo-booster.php:2042
+msgid "Per default only most important events is logged."
+msgstr "Som standard är det bara de viktigaste händelserna som är loggade."
+
+#: seo-booster.php:2043
+msgid ""
+"If you want more details, go to the settings page and turn on \"Debug Logging"
+"\"."
+msgstr ""
+"Om du vill ha mer information, gå till inställningssidan och aktivera "
+"\"Logga fel\"."
+
+#: seo-booster.php:2050
+msgid "Turn keywords to links"
+msgstr "Gör sökord till länkar"
+
+#: seo-booster.php:2051
+msgid ""
+"Enable this to turn keywords in your content in to links to the appropriate "
+"pages."
+msgstr ""
+"Aktivera detta för att göra sökord i innehållet till länkar till lämpliga "
+"sidor."
+
+#: seo-booster.php:2052
+msgid ""
+"Keywords comes from the keywords tracked by the plugin, the keyword you "
+"enter manually per page or via the Focus Keyword in Yoast SEO plugin."
+msgstr ""
+"Sökord kommer från de sökord som spåras av denna plugin, de sökord du anger "
+"manuellt per sida eller via Focus Keyword i Yoast SEO-plugin."
+
+#: seo-booster.php:2053
+msgid ""
+"If you discover problems you can turn this feature off on individual pages "
+"or turn it off again."
+msgstr ""
+"Om du upptäcker problem kan du stänga av den här funktionen på enskilda "
+"sidor eller stäng av den helt."
+
+#: seo-booster.php:2061
+msgid ""
+"Sometimes you get a keyword in your system you do not want to use on your "
+"website, filter out any you do not want here."
+msgstr ""
+"Ibland får du ett sökord i ditt system som du inte vill använda på din "
+"webbplats, filtrera bort de du inte vill ha här."
+
+#: seo-booster.php:2069
+msgid ""
+"Visitors clicking on search results on your own website are also tracked. "
+"You can turn this off here if you wish only keywords from external visitors."
+msgstr ""
+"Besökare som klickar på sökresultat på din egen webbplats spåras också. Du "
+"kan stänga av det här om du bara önskar sökord från externa besökare."
+
+#: seo-booster.php:2077
+msgid ""
+"The keywords people use to find your content can be used as Tags for your "
+"posts and pages."
+msgstr ""
+"De sökord som folk använder för att hitta ditt innehåll kan användas som "
+"etiketter för dina inlägg och sidor."
+
+#: seo-booster.php:2085
+msgid ""
+"Enable this and enter your e-mail to get a weekly update from your website "
+"about new keywords and incoming links."
+msgstr ""
+"Aktivera detta och ange din e-postadress för att få en veckovis uppdatering "
+"från din webbplats om nya sökord och inkommande länkar."
+
+#: seo-booster.php:2093
+msgid "End of the Guided Tour"
+msgstr "Slut på den Guidade turen"
+
+#: seo-booster.php:2094
+msgid ""
+"Thank you for finishing the tour. This was just a quick tour of the most "
+"important features - there are more cool features for you to discover."
+msgstr ""
+"Tack för att du avslutat turnén. Detta var bara en snabb rundtur i de "
+"viktigaste funktionerna - det finns mer coola funktioner för dig att "
+"upptäcka."
+
+#: seo-booster.php:2095
+msgid "Need Help?"
+msgstr "Behöver du hjälp?"
+
+#: seo-booster.php:2098
+msgid "Contact Support"
+msgstr "Kontakta supporten"
+
+#: seo-booster.php:2099
+msgid "Please leave a review if you like the plugin."
+msgstr "Lämna en recension om du gillar denna plugin."
+
+#: seo-booster.php:2130
+msgid "Thank you for installing SEO Booster :-)"
+msgstr "Tack för att du installerat SEO Booster."
+
+#: seo-booster.php:2131
+msgid ""
+"This Quick Guided Tour will help you learn the interface in a few minutes."
+msgstr ""
+"Den här Snabbstartsguiden hjälper dig att förstå gränssnittet på några "
+"minuter."
+
+#: seo-booster.php:2132
+msgid "Click the <em>Begin Tour</em> button to get started."
+msgstr "Klicka på knappen <em>Börja tur</em> för att komma igång."
+
+#: seo-booster.php:2133
+msgid ""
+"If you want to watch it later use the <em>Close</em> button and start the "
+"tour from the bottom of the Settings page."
+msgstr ""
+"Om du vill titta på den senare använder du <em>Stäng</em>-knappen och "
+"startar turen längst ner på sidan Inställningar."
+
+#: seo-booster.php:2138
+msgid "Begin Tour"
+msgstr "Börja tur"
+
+#: seo-booster.php:2170
+msgid "Close"
+msgstr "Stäng"
+
+#: seo-booster.php:2594
+msgid "Updated database tables"
+msgstr ""
+
+#: seo-booster.php:2613
+msgid "Every minute"
+msgstr "Varje minut"
+
+# @ seobooster2
+#: seo-booster.php:2617
+msgid "Every 5 minutes"
+msgstr "Var 5 minuter"
+
+# @ seobooster2
+#: seo-booster.php:2827
+msgid "General Settings"
+msgstr "Allmänna inställningar"
+
+# @ seobooster2
+#: seo-booster.php:2838 seo-booster.php:4031
+#: views/internallinks__premium_only.php:6
+msgid "Internal Links"
+msgstr "Interna länkar"
+
+#: seo-booster.php:2840
+msgid "Crawled Content"
+msgstr "Genomsökta sidor"
+
+#: seo-booster.php:2842
+msgid "Audit (beta)"
+msgstr ""
+
+# @ seobooster2
+#: seo-booster.php:2848 views/backlink-pages.php:6
+msgid "Backlinks"
+msgstr "Bakåtlänkar"
+
+# @ seobooster2
+#: seo-booster.php:2852
+msgid "404s"
+msgstr "404"
+
+# @ seobooster2
+#: seo-booster.php:3001
+msgid "Page"
+msgstr "Sida"
+
+# @ seobooster2
+#: seo-booster.php:3026
+msgid "Recent Events"
+msgstr "Nya händelser"
+
+#: seo-booster.php:3196
+#, php-format
+msgid ""
+"Visit to <code>%s</code> ignored, matched <code>%s</code> in ignorelist."
+msgstr ""
+
+# @ seobooster2
+#: seo-booster.php:3285
+#, php-format
+msgid ""
+"Visitor from %s - Searching for <code>%s</code> <a href='%s' target='_blank'>"
+"%s</a>"
+msgstr ""
+"Besökare från %s - Söker efter <code>%s</code> <a href='%s' target='_blank'>"
+"%s</a>"
+
+# @ seobooster2
+#: seo-booster.php:3287
+#, php-format
+msgid "Visitor from %s. <a href='%s' target='_blank'>%s</a>"
+msgstr "Besökare från %s. <a href='%s' target='_blank'>%s</a>"
+
+#: seo-booster.php:3386
+#, php-format
+msgid "Ignored invalid URL <code>%s</code>"
+msgstr ""
+
+#: seo-booster.php:3431
+#, php-format
+msgid "First visit from backlink %s on page %s."
+msgstr "Första besöket från bakåtlänk %s på sidan %s."
+
+#: seo-booster.php:3517
+#, php-format
+msgid ""
+"Created a new term <a href='%s'>%s</a> in the <code>%s</code> taxonomy. For "
+"<a href='%s' target='_blank'>%s</a> (ID %d)"
+msgstr ""
+
+#: seo-booster.php:3528
+#, php-format
+msgid "Error tagging <code>%s</code>"
+msgstr ""
+
+#: seo-booster.php:3531
+#, php-format
+msgid "Tagged <a href='%s'>%s</a> with <a href='%s'>%s</a>"
+msgstr "Taggad <a href='%s'>%s</a> med <a href='%s'>%s</a>"
+
+#: seo-booster.php:3561
+#, php-format
+msgid "Tagged related post <a href='%s'>%s</a> with <a href='%s'>%s</a>"
+msgstr "Märkt relaterat inlägg <a href='%s'>%s</a> med <a href='%s'>%s</a>"
+
+#: seo-booster.php:3607
+#, php-format
+msgid "Removed %s old daily keywords tracking data."
+msgstr "Tog bort %s från gammal spårningsinformation."
+
+#: seo-booster.php:3616
+#, php-format
+msgid "Log table has %s entries, trimming to %s."
+msgstr "Logg tabellen har %s inlägg, trimning till %s."
+
+#: seo-booster.php:3642 seo-booster.php:3681
+#, php-format
+msgid "Maintenance - Removing URL <code>%s</code>"
+msgstr "Underhåll - Tar bort URL <code>%s</code>"
+
+#: seo-booster.php:3710
+#, php-format
+msgid ""
+"Maintenance - Found a search engine visitor from <code>%s</code> - updating "
+"keyword records."
+msgstr ""
+"Underhåll - Hittade en sökmotorbesökare från <code>%s</code> - uppdaterar "
+"sökordsposter."
+
+#: seo-booster.php:3745
+#, php-format
+msgid "Maintenance - Removing a reference to <code>%s</code>."
+msgstr "Underhåll - Tar bort en hänvisning till <code>%s</code>."
+
+# @ seobooster2
+#: seo-booster.php:3762
+#, php-format
+msgid "Maintenance routines made %d changes to the database."
+msgstr "Underhållsrutiner gjorde %d ändringar i databasen."
+
+#: seo-booster.php:3813
+#, php-format
+msgid "(PRO) Backlink verified on <code>%s</code>"
+msgstr "(PRO) - Bakåtlänk kontrollerad på <code>%s</code>"
+
+#: seo-booster.php:3945
+msgid "SEO Booster - Dynamic Links"
+msgstr "SEO Booster - Dynamiska länkar"
+
+#: seo-booster.php:3946
+msgid ""
+"List of links to other pages with anchor text detected from search engines."
+msgstr ""
+"Lista över länkar till andra sidor med ankartext som detekterats från "
+"sökmotorer."
+
+# @ seobooster2
+#: seo-booster.php:4060 seo-booster.php:4165
+msgid "Title:"
+msgstr "Titel:"
+
+# @ seobooster2
+#: seo-booster.php:4063
+msgid "The Widget title."
+msgstr "Widget titel."
+
+# @ seobooster2
+#: seo-booster.php:4067 seo-booster.php:4170
+msgid "Limit:"
+msgstr "Begränsning:"
+
+# @ seobooster2
+#: seo-booster.php:4070 seo-booster.php:4173
+msgid "The maximum amount of links. Defaults to 10."
+msgstr "Maximalt antal länkar. Standardvärdet är 10."
+
+# @ seobooster2
+#: seo-booster.php:4074
+msgid "What to show:"
+msgstr "Vad ska visas:"
+
+# @ seobooster2
+#: seo-booster.php:4079
+msgid "Pages with the most SEO traffic"
+msgstr "Sidor med mest SEO trafik"
+
+# @ seobooster2
+#: seo-booster.php:4083
+msgid "Pages with little SEO traffic"
+msgstr "Sidor med lite SEO trafik"
+
+# @ seobooster2
+#: seo-booster.php:4088
+msgid ""
+"Choosing to show links to most trafficked paged can boost them even further. "
+"If you want to help along low performing keywords, you should show the pages "
+"with little traffic."
+msgstr ""
+"Att välja att visa länkar till mest trafikerade sidor kan hjälpa dem ännu "
+"mer. Om du vill hjälpa lågpresterande sökord, bör du visa sidorna med lite "
+"trafik."
+
+# @ seobooster2
+#: seo-booster.php:4094
+msgid "Show number of visits:"
+msgstr "Visa antal besök:"
+
+# @ seobooster2
+#: seo-booster.php:4101
+msgid "Turn on showing number of visits after each keyword."
+msgstr "Aktivera visning av antalet besök efter varje sökord."
+
+#: seo-booster.php:4115
+msgid "SEO Booster - Incoming Keywords"
+msgstr "SEO Booster - Inkommande sökord"
+
+# @ seobooster2
+#: seo-booster.php:4116
+msgid ""
+"Shows keywords used to find the current page. Widget does not display if no "
+"terms is found."
+msgstr ""
+"Visar sökord som använts för att hitta den aktuella sidan. Widget visas inte "
+"om ingen sökterm finns."
+
+#: seo-booster.php:4155
+msgid "Tagged With"
+msgstr "Taggad med"
+
+#: views/404-pages.php:21
+msgid ""
+"404 Error monitoring is turned off, turn on in Settings page.seo-booster"
+msgstr ""
+
+# @ seobooster2
+#: views/404-pages.php:30 views/404-pages.php:45
+msgid "Reset 404 Errors"
+msgstr "Nollställ 404 Fel"
+
+# @ seobooster2
+#: views/404-pages.php:36 views/audit__premium_only.php:15
+#: views/backlink-pages.php:20 views/crawled-pages.php:16
+msgid "Search"
+msgstr "Sök"
+
+#: views/audit__premium_only.php:6
+msgid "SEO Audit"
+msgstr ""
+
+#: views/audit__premium_only.php:9
+msgid "Finding mistakes on your website before the search engines does."
+msgstr ""
+
+#: views/audit__premium_only.php:38
+msgid "Reset Audit"
+msgstr ""
+
+#: views/audit__premium_only.php:41
+msgid "Resets the results and starts the audit again."
+msgstr ""
+
+#: views/backlink-pages.php:9
+msgid "Who links to you - Visits from other websites that links to you."
+msgstr ""
+"Vem länkar till dig - Besök från andra webbplatser som länkar till dig."
+
+#: views/backlink-pages.php:24
+msgid ""
+"Note - Backlinks you delete from this list will reappear next time someone "
+"visits again."
+msgstr ""
+"OBS - Bakåtlänkar som du raderar från den här listan kommer att återkomma "
+"nästa gång någon kommer på besök igen."
+
+#: views/crawled-pages.php:9
+msgid "See which of your pages have been crawled and by which crawlers."
+msgstr "Se vilka av dina sidor som har granskats och av vilka sökrobotar."
+
+#: views/crawled-pages.php:31
+msgid "Reset Crawl data"
+msgstr "Nollställ genomsökt data"
+
+# @ seobooster2
+#: views/forgotten-pages.php:10
+msgid "Pages that have not received search engine traffic for a while."
+msgstr "Glömda sidor är sidor som inte har fått sökmotortrafik på ett tag."
+
+#: views/internallinks__premium_only.php:9
+msgid "Manage your internal links."
+msgstr ""
+
+#: views/internallinks__premium_only.php:36
+#, php-format
+msgid "%s keywords link to <a href='%s'>%s</a>"
+msgstr ""
+
+# @ seobooster2
+#. Plugin URI of the plugin/theme
+msgid "https://cleverplugins.com/"
+msgstr "https://cleverplugins.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Monitor keywords from hundreds of search engines + 404 errors tracking + "
+"backlink collecting  and verification (PRO) + Crosslinking widgets and "
+"template functions."
+msgstr ""
+
+# @ seobooster2
+#. Author of the plugin/theme
+msgid "cleverplugins.com"
+msgstr "cleverplugins.com"
+
+# @ seobooster2
+#. Author URI of the plugin/theme
+msgid "https://cleverplugins.com"
+msgstr "https://cleverplugins.com"
+
+#~ msgid "You can cancel any time. But you propably won't :-)"
+#~ msgstr "Du kan avbryta när som helst. Men det vill du nog inte :-)"
+
+#~ msgid "Upgrade or downgrade any time."
+#~ msgstr "Uppgradera eller nedgradera när som helst."
+
+#~ msgid "Discounts for different plans when paid upfront."
+#~ msgstr "Rabatter för olika alternativ vid förskotts betalning."
+
+# @ seobooster2
+#~ msgid "Finished running database create/update routines"
+#~ msgstr "Kört rutiner för skapa/uppdatera databas"
+
+#~ msgid "Database"
+#~ msgstr "Databas"
+
+#~ msgid "Hey %1$s"
+#~ msgstr "Hej %1$s"
+
+#~ msgid ""
+#~ "Please help us improve %2$s! If you opt-in, some data about your usage of "
+#~ "%2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still "
+#~ "work just fine."
+#~ msgstr ""
+#~ "Hjälp oss att förbättra %2$s! Om du loggar in skickas några data om din "
+#~ "användning av %2$s till %5$s. Om du hoppar över det, är det okej! %2$s "
+#~ "fungerar fortfarande bra."
+
+# @ seobooster2
+#~ msgid "Running daily maintenance routines."
+#~ msgstr "Kört dagliga underhållsrutiner."
+
+#~ msgid "SEO Booster PRO - All this and more!"
+#~ msgstr "SEO Booster PRO - Allt detta och mer därtill!"
+
+#~ msgid "Get more details about links to your website."
+#~ msgstr "Få mer information om länkar till din webbplats."
+
+#~ msgid "Save hours of painstaking SEO analysis"
+#~ msgstr "Spara timmar med noggrann SEO analys"
+
+#~ msgid "Google not included."
+#~ msgstr "Google ingår inte."
+
+#~ msgid "Benchmarked %s in %s secs."
+#~ msgstr "Benchmarked %s på %s sek."
+
+#~ msgid "Auto link turned on, but no keywords in system "
+#~ msgstr "Automatisk länkning aktiverad, men inga sökord hittades "
+
+#~ msgid "(PRO) Backlink NOT verified on <code>%s</code>"
+#~ msgstr "(PRO) - Bakåtlänk INTE kontrollerad på <code>%s</code>"
+
+#~ msgid "See prices and upgrade"
+#~ msgstr "Se priser och uppgradera"
+
+#~ msgid ""
+#~ "Enter keywords to be filtered out. Separate keywords with comma or "
+#~ "linebreak. Applies to the "
+#~ msgstr ""
+#~ "Ange sökord som ska filtreras bort. Separata sökord med komma eller "
+#~ "radbyte. "
+
+#~ msgid "Start of to &lt;title&gt;"
+#~ msgstr "Lägg till före &lt;title&gt;"
+
+#~ msgid "Debug: Crawl by %s on <code>%s</code>"
+#~ msgstr "Felsökning: Genomsök av %s på <code>%s</code>"
+
+# @ seobooster2
+#~ msgid "Exported"
+#~ msgstr "Exporterad"
+
+# @ seobooster2
+#~ msgid "Anchor Text"
+#~ msgstr "Ankartext"
+
+# @ seobooster2
+#~ msgid "Referrer"
+#~ msgstr "Hänvisat från"
+
+# @ seobooster2
+#~ msgid "Google TLD"
+#~ msgstr "Google TLD"
+
+# @ seobooster2
+#~ msgctxt "Column label"
+#~ msgid "Robot Visits"
+#~ msgstr "Robot besök"
+
+#~ msgid "Upgrade to PRO"
+#~ msgstr "Uppgradera till PRO"
+
+#~ msgid "400+ search engines in PRO - Free version: 100."
+#~ msgstr "400+ sökmotorer i PRO - Gratis version: 100."
+
+#~ msgid ""
+#~ "Crawler visits - Monitor when and where search engine crawlers come to "
+#~ "visit."
+#~ msgstr ""
+#~ "Sökrobotbesök - Övervaka när och var sökrobotrobotar kommer på besök."
+
+#~ msgid ""
+#~ "Title Keyword Injection - Put the most used keyword in beginning or end "
+#~ "of the <title> tag."
+#~ msgstr ""
+#~ "Nyckelord i Titel - Lägger till det mest använda sökordet i början eller "
+#~ "slutet av <title> taggen."
+
+#~ msgid "Upgrade Now"
+#~ msgstr "Uppgradera nu"
+
+# @ seobooster2
+#~ msgid "Export"
+#~ msgstr "Export"
+
+# @ seobooster2
+#~ msgid ""
+#~ "Clicking the link exports all your backlink details in .csv format, ready "
+#~ "to open in any spreadsheet editor."
+#~ msgstr ""
+#~ "Om du klickar på länken exporteras alla dina bakåtlänkar i .CSV-format, "
+#~ "redo att öppnas i ett kalkylprogram."
+
+# @ seobooster2
+#~ msgid "Export all your backlinks with more details"
+#~ msgstr "Exportera alla dina bakåtlänkar med fler detaljer"
+
+# @ seobooster2
+#~ msgid "Click here"
+#~ msgstr "Klicka här"
+
+# @ seobooster2
+#~ msgid "Export all your VERIFIED backlinks with more details"
+#~ msgstr "Exportera alla dina VERIFIERADE bakåtlänkar med fler detaljer"
+
+# @ seobooster2
+#~ msgid ""
+#~ "Clicking the link exports all your keyword details in .csv format, ready "
+#~ "to open in any spreadsheet editor."
+#~ msgstr ""
+#~ "Om du klickar på länken exporteras alla dina sökordsdata i .CSV-format, "
+#~ "redo att öppnas i alla kalkylprogram."
+
+# @ seobooster2
+#~ msgid "Export all your keywords with more details."
+#~ msgstr "Exportera alla dina sökord med fler detaljer."
+
+# @ seobooster2
+#~ msgid "Daily maintenance routines has finished running."
+#~ msgstr "Dagliga underhållsrutiner har körts."
+
+# @ seobooster2
+#~ msgid "Dashboard"
+#~ msgstr "Panel"
+
+# @ seobooster2
+#~ msgid "Keyword Tracking"
+#~ msgstr "Sökordsspårning"
+
+#~ msgid ""
+#~ "So far, %1$s known and unknown keywords from %2$s search engines have "
+#~ "sent %3$s visitors."
+#~ msgstr ""
+#~ "Så här långt har %1$s kända och okända sökord från %2$s sökmotorer "
+#~ "skickat %3$s besökare."
+
+#~ msgid ""
+#~ "Google have sent %1$s visitors to %2$s different pages and shared "
+#~ "information about %3$s keywords."
+#~ msgstr ""
+#~ "Google har skickat %1$s besökare till %2$s olika sidor och delat "
+#~ "information om %3$s sökord."
+
+#~ msgid ""
+#~ "%1$s other search engines have brought %2$s visitors to %3$s different "
+#~ "pages, and information about %4$s keywords."
+#~ msgstr ""
+#~ "%1$s andra sökmotorer har skickat %2$s besökare till %3$s olika sidor och "
+#~ "information om %4$s sökord."
+
+#~ msgid "Discover more in the <a href=\"%s\">keywords page</a>."
+#~ msgstr "Se mer på <a href=\"%s\">sökordssida</a>."
+
+#~ msgid "Thank you for installing SEO Booster."
+#~ msgstr "Tack för att du installerat SEO Booster."
+
+# @ seobooster2
+#~ msgid "Explore the plugin pages"
+#~ msgstr "Visa plugin-sidorna"
+
+#~ msgid "Knowledge Base and help"
+#~ msgstr "Kunskapsbas och hjälp"
+
+# @ seobooster2
+#~ msgid ""
+#~ "'Known' keywords are visits from search engines where the search keyword "
+#~ "could be detected. 'Unknown' are when Google and other search engines do "
+#~ "not tell which keyword was used."
+#~ msgstr ""
+#~ "&quot;Kända&quot; sökord är besök från sökmotorer där sökord kunde "
+#~ "detekteras. &quot;Okända&quot; är när Google och andra sökmotorer inte "
+#~ "berättar vilka sökord som använts."
+
+# @ seobooster2
+#~ msgid "Backlinks URL RSS feed"
+#~ msgstr "URL för bakåtlänkars RSS-flöde"
+
+# @ seobooster2
+#~ msgid ""
+#~ "This RSS feed contains a list of verified backlinks to your site. This "
+#~ "means other sites that links to you."
+#~ msgstr ""
+#~ "Detta RSS-flöde innehåller en lista över verifierade bakåtlänkar till din "
+#~ "webbplats. Det betyder andra webbplatser som länkar till dig."
+
+# @ seobooster2
+#~ msgid "Or click here"
+#~ msgstr "Eller klicka här"
+
+# @ seobooster2
+#~ msgid "Backlinks RSS Feed"
+#~ msgstr "RSS-flöde bakåtlänkar"
+
+# @ seobooster2
+#~ msgid "All SEO Booster 2 databases have been reset."
+#~ msgstr "Alla SEO Booster 2 databaser har nollställts."
+
+# @ seobooster2
+#~ msgid "Keywords filtering"
+#~ msgstr "Sökordsfiltrering"
+
+# @ seobooster2
+#~ msgid "Ignore keywords:"
+#~ msgstr "Ignorera sökord:"
+
+# @ seobooster2
+#~ msgid "Enter keywords to be filtered out."
+#~ msgstr "Ange sökord som ska filtreras bort."
+
+#~ msgid "Separate keywords with comma or linebreak."
+#~ msgstr "Separera nyckelord med kommatecken eller radbrytning."
+
+# @ seobooster2
+#~ msgid "Ignore internal searches:"
+#~ msgstr "Ignorera interna sökningar:"
+
+# @ seobooster2
+#~ msgid ""
+#~ "Per default internal searches are stored and used in widgets and internal "
+#~ "stats. Turn this on to ignore."
+#~ msgstr ""
+#~ "Som standard lagras interna sökningar och används i widgets och intern "
+#~ "statistik. Aktivera för att ignorera."
+
+# @ seobooster2
+#~ msgid "Inject keyword in &lt;title&gt;-tag"
+#~ msgstr "Infoga sökord i &lt;title&gt;-taggen"
+
+#~ msgid "(PRO Feature) Inject top keyword in title:"
+#~ msgstr "(PRO-funktion) Infoga bästa sökord i titeln:"
+
+#  seobooster2
+# @ seobooster2
+#~ msgid "Prepend in to &lt;title&gt;"
+#~ msgstr "Lägg till före &lt;title&gt;"
+
+#  seobooster2
+# @ seobooster2
+#~ msgid "Append to the &lt;title&gt;"
+#~ msgstr "Lägg till efter &lt;title&gt;"
+
+#~ msgid ""
+#~ "Allows you to append or prepend the most popular keyword for that page in "
+#~ "the &lt;title&gt;-tag."
+#~ msgstr ""
+#~ "Gör det möjligt för dig att lägga till de mest populära sökorden för "
+#~ "sidan i &lt;title&gt;-taggen."
+
+#~ msgid "Tracking and Monitoring"
+#~ msgstr "Spårning och övervakning"
+
+# @ seobooster2
+#~ msgid "Monitor 404 Errors:"
+#~ msgstr "Övervaka 404 Fel:"
+
+# @ seobooster2
+#~ msgid "Let SEO Booster monitor 404 (page not found) errors."
+#~ msgstr "Låt SEO Booster övervaka 404 (sidan hittades inte) fel."
+
+# @ seobooster2
+#~ msgid "Logging"
+#~ msgstr "Loggning"
+
+#~ msgid "Visitor Logging:"
+#~ msgstr "Besöksloggning:"
+
+#~ msgid ""
+#~ "Logs visits - This will fill up the log with a lot of details, but good "
+#~ "for verifying things are working."
+#~ msgstr ""
+#~ "Loggar besök - Detta kommer att fylla upp loggen med många detaljer, men "
+#~ "bra för att verifiera att saker fungerar."
+
+# @ seobooster2
+#~ msgid "Detailed Logging:"
+#~ msgstr "Detaljerad loggning:"
+
+# @ seobooster2
+#~ msgid ""
+#~ "If turned on, the log will have more details. If turned off, only the "
+#~ "most important things are logged."
+#~ msgstr ""
+#~ "Om aktiverad, kommer loggen att ha mer information. Om avstängd, loggas "
+#~ "bara de viktigaste sakerna."
+
+#~ msgid "Use Yoast Focus Keyword"
+#~ msgstr "Använd Yoast Focus Keyword"
+
+#~ msgid "Email Testing"
+#~ msgstr "E-posttest"
+
+#~ msgid "Maintenance"
+#~ msgstr "Underhåll"
+
+#~ msgid "Run Maintenance Scripts"
+#~ msgstr "Kör underhållsrutin"
+
+# @ seobooster2
+#~ msgid ""
+#~ "SEO Booster runs these routines once a day, but you can run them manually "
+#~ "as well."
+#~ msgstr ""
+#~ "SEO Booster kör dessa rutiner en gång om dagen, men du kan köra dem "
+#~ "manuellt också."
+
+# @ seobooster2
+#~ msgid "Clean Database"
+#~ msgstr "Rensa databas"
+
+# @ seobooster2
+#~ msgid "Are your sure? This deletes all data!"
+#~ msgstr "Är din säker? Detta raderar all data!"
+
+#~ msgid ""
+#~ "Clicking this button will reset all databases - Be very careful this is "
+#~ "what you want to do. There is no undo!"
+#~ msgstr ""
+#~ "Om du klickar på den här knappen återställs alla databaser - Var säker på "
+#~ "att det här är vad du vill göra. Det finns ingen återvändo!"
+
+#~ msgid "Incoming keywords"
+#~ msgstr "Inkommande sökord"
+
+#~ msgid "No keyword data yet"
+#~ msgstr "Inga sökordsdata ännu"
+
+#~ msgid "SEO information about this page"
+#~ msgstr "SEO information om denna sida"
+
+# @ seobooster2
+#~ msgid "unknown"
+#~ msgstr "okänd"
+
+# @ seobooster2
+#~ msgid "Verified Backlinks Feed - SEO Booster"
+#~ msgstr "Verifierad bakåtlänk Feed - SEO Booster"
+
+#~ msgid "PRO - Backlink verified on <code>%s</code>"
+#~ msgstr "PRO - Bakåtlänk kontrollerad på <code>'%s'</code>"
+
+# @ seobooster2
+#~ msgid "Incoming Keywords"
+#~ msgstr "Inkommande sökord"
+
+#~ msgid ""
+#~ "For example - %1$s have not had a visitor from a search engine since %2$s "
+#~ "- %3$s ago."
+#~ msgstr ""
+#~ "Till exempel - %1$s har inte haft något besök av en sökmotor sedan %2$s - "
+#~ "%3$s ago."
+
+#~ msgid "Beta Features"
+#~ msgstr "Beta funktioner"
+
+#~ msgid "Use these at your own risk, you have been warned!"
+#~ msgstr "Använd dessa på egen risk, du har blivit varnad!"
+
+#~ msgid "Auto Internal Linking"
+#~ msgstr "Automatisk intern länkning"
+
+#~ msgid "Turn on auto linking internal keywords."
+#~ msgstr "Aktivera automatisk länkning av interna sökord."
+
+# @ seobooster2
+#~ msgid "Email last 30 days report right now."
+#~ msgstr "Skicka rapport för de senaste 30 dagarna nu."
+
+#~ msgid "Sends report for the past 30 days to the email recipients."
+#~ msgstr "Skickar rapport för de senaste 30 dagarna till e-postmottagarna."
+
+# @ seobooster2
+#~ msgid "Weekly Report from SEO Booster on "
+#~ msgstr "Veckorapport från SEO Booster på "
+
+# @ seobooster2
+#~ msgid ""
+#~ "Maintenance - Found a search engine visitor from <code>%s</code> updating "
+#~ "keyword records."
+#~ msgstr ""
+#~ "Underhåll - Hittade en sökmotorbesökare från <code>%s</code> som "
+#~ "uppdaterar sökordspost."
+
+# @ default
+#, fuzzy
+#~ msgid ""
+#~ "There is a new version of %1$s available. %2$sView version %3$s details"
+#~ "%4$s."
+#~ msgstr ""
+#~ "Det finns en ny version av %1$s tillgänglig. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Se version %3$s detaljer</a> ."
+
+# @ default
+#, fuzzy
+#~ msgid ""
+#~ "There is a new version of %1$s available. %2$sView version %3$s details"
+#~ "%4$s or %5$supdate now%6$s."
+#~ msgstr ""
+#~ "Det finns en ny version av %1$s tillgänglig. <a target=\"_blank\" class="
+#~ "\"thickbox\" href=\"%2$s\">Se version %3$s detaljer</a> eller <a href="
+#~ "\"%4$s\">uppdatera nu</a> ."
+
+# @ default
+#~ msgid "You do not have permission to install plugin updates"
+#~ msgstr "Du har inte behörighet att installera plugin-uppdateringar"
+
+# @ seobooster2
+#~ msgid "Error"
+#~ msgstr "Fel"
+
+#~ msgid "Upgrade Now!"
+#~ msgstr "Uppgradera nu!"
+
+# @ seobooster2
+#~ msgid "Supported Search Engines"
+#~ msgstr "Sökmotorer som stöds"
+
+# @ seobooster2
+#~ msgid "Supported search engines."
+#~ msgstr "Sökmotorer som stöds."
+
+# @ seobooster2
+#~ msgid "All SEO Booster databases have been reset."
+#~ msgstr "Alla SEO Booster databaser har nollställts."
+
+# @ seobooster2
+#~ msgid "Online Documentation"
+#~ msgstr "Onlinedokumentation"
+
+# @ seobooster2
+#~ msgid "Maintenance Routines"
+#~ msgstr "Underhållsrutiner"
+
+# @ seobooster2
+#~ msgid "Run Maintenance"
+#~ msgstr "Kör underhåll"
+
+# @ seobooster2
+#~ msgid "Keywords without traffic"
+#~ msgstr "Sökord utan trafik"
+
+# @ seobooster2
+#~ msgid "You have %s keywords without activity in over %s days."
+#~ msgstr "Du har %s sökord utan aktivitet i mer än %s dagar."
+
+# @ seobooster2
+#~ msgid ""
+#~ "These keywords are automatically ignored, but you can remove them to "
+#~ "reduce database space. 10.000 per click."
+#~ msgstr ""
+#~ "Dessa sökord är automatiskt ignorerade, men du kan ta bort dem för att "
+#~ "minska databasutrymme. 10.000 per klick."
+
+# @ seobooster2
+#~ msgid "Delete old keywords"
+#~ msgstr "Radera gamla sökord"
+
+# @ seobooster2
+#~ msgid "Clean Database Tables"
+#~ msgstr "Rensa databastabeller"
+
+# @ seobooster2
+#~ msgid ""
+#~ "Clicking this button will reset all keywords, backlinks and 404 errors."
+#~ msgstr ""
+#~ "Klicka på denna knapp för att nollställa alla sökord, bakåtlänkar och 404 "
+#~ "fel."
+
+# @ seobooster2
+#~ msgid "Found %s keyword entries in old database. Processing batch."
+#~ msgstr "Hittade %s sökordsposter i gamla databasen. Bearbetar."
+
+# @ seobooster2
+#~ msgid "Licensing"
+#~ msgstr "Licensnyckel"
+
+# @ seobooster2
+#~ msgid "Enter your license key to get updates and support."
+#~ msgstr "Ange din licensnyckel för att få uppdateringar och support."
+
+# @ seobooster2
+#~ msgid "License Key"
+#~ msgstr "Licensnyckel"
+
+# @ seobooster2
+#~ msgid "Enter your license key"
+#~ msgstr "Skriv in din licensnyckel"
+
+# @ seobooster2
+#~ msgid "License Status"
+#~ msgstr "Licensstatus"
+
+# @ seobooster2
+#~ msgid "Active"
+#~ msgstr "Aktiv"
+
+# @ seobooster2
+#~ msgid "Deactivate License"
+#~ msgstr "Avaktivera licens"
+
+# @ seobooster2
+#~ msgid "Licensed to %s. %s/%s sites activated. License expires %s."
+#~ msgstr "Licensierad till %s. %s/%s platser aktiverade. Licensen går ut %s."
+
+# @ seobooster2
+#~ msgid "Not active"
+#~ msgstr "Inaktiv"
+
+# @ seobooster2
+#~ msgid "Activate License"
+#~ msgstr "Aktivera licens"
+
+# @ seobooster2
+#~ msgid "Dynamic Tagging"
+#~ msgstr "Dynamisk taggning"
+
+# @ seobooster2
+#~ msgid "Turn on Dynamic Tagging:"
+#~ msgstr "Slå på Dynamisk taggning:"
+
+# @ seobooster2
+#~ msgid "Automatically tag posts with search terms."
+#~ msgstr "Märker automatiskt inlägg med söktermer."
+
+# @ seobooster2
+#~ msgid "Inject top keyword in title:"
+#~ msgstr "Infoga bästa sökordet i titeln:"
+
+#  seobooster2
+# @ seobooster2
+#~ msgid "404 Detection"
+#~ msgstr "404 Detektering"
+
+# @ seobooster2
+#~ msgid "Run Database Updates"
+#~ msgstr "Kör databasuppdateringar"
+
+# @ seobooster2
+#~ msgid "Update Database"
+#~ msgstr "Uppdatera databas"
+
+# @ seobooster2
+#~ msgid "If you need to manually run the database updates."
+#~ msgstr "Om du manuellt behöver köra databasuppdateringar."
+
+# @ default
+#~ msgid "New keywords discovered the past x days, by url"
+#~ msgstr "Nya sökord upptäckte de senaste x dagarna av url"
+
+# @ seobooster2
+#~ msgid "Keywords:"
+#~ msgstr "Sökord:"
+
+# @ default
+#~ msgid "New unspecified keywords discovered"
+#~ msgstr "Nya ospecificerade sökord upptäckts"
+
+# @ seobooster2
+#~ msgid "There is nothing new to report for the past"
+#~ msgstr "Det finns inget nytt att rapportera för det gångna"
+
+# @ seobooster2
+#~ msgid "License deactivated"
+#~ msgstr "Licensstatus"
+
+# @ seobooster2
+#~ msgid "Removed %d old daily keywords tracking data."
+#~ msgstr "Tog bort %d spårningsinformation för gamla sökord."
+
+#~ msgid "PRO - Checking backlink <code>%s</code>"
+#~ msgstr "PRO - kontrollera bakåtlänk <code>%s</code>"
+
+# @ seobooster2
+#, fuzzy
+#~ msgid "Backlink verified on <code>%s</code>"
+#~ msgstr "Bakåtlänk kontrollerad på '%s'"
+
+# @ seobooster2
+#~ msgid "(SB2) Dynamic Links"
+#~ msgstr "(SB2) dynamiska länkar"
+
+# @ seobooster2
+#~ msgid ""
+#~ "Shows links to other pages with anchor text from incoming search engine "
+#~ "visits."
+#~ msgstr ""
+#~ "Visar länkar till andra sidor med ankartext från inkommande sökmotorers "
+#~ "besök."
+
+# @ seobooster2
+#~ msgid "(SB2) Incoming Keywords"
+#~ msgstr "(SB2) Inkommande sökord"
+
+# @ seobooster2
+#~ msgid "Removed manually selected 404 errors from the list."
+#~ msgstr "Tagit bort manuellt valda 404 fel från listan."
+
+# @ seobooster2
+#~ msgid "404 Error list was reset."
+#~ msgstr "404 Fellistan nollställdes."
+
+# @ seobooster2
+#~ msgid "Showing %s results."
+#~ msgstr "Visar %s resultat."
+
+# @ seobooster2
+#~ msgid "Remove Selected 404 Pages"
+#~ msgstr "Ta bort markerade 404 sidor"
+
+# @ seobooster2
+#~ msgid ""
+#~ "No 404 error pages (nonexistent urls on your site) has been detected so "
+#~ "far."
+#~ msgstr ""
+#~ "Inga 404 felsidor (icke existerande webbadresser på din webbplats) har "
+#~ "upptäckts hittills."
+
+# @ seobooster2
+#~ msgid "Top Backlinks"
+#~ msgstr "Bästa bakåtlänkarna"
+
+# @ seobooster2
+#~ msgid "Remove selected backlinks"
+#~ msgstr "Avlägsna valda bakåtlänkar"
+
+# @ seobooster2
+#~ msgid ""
+#~ "Note: Removed links reappear if the referring link is detected again."
+#~ msgstr ""
+#~ "OBS: Borttagna länkar återkommer igen om refererande länk hittas på nytt."
+
+# @ seobooster2
+#~ msgid ""
+#~ "Wondering which landing pages are no longer getting any search engine "
+#~ "traffic, but used to in the past?"
+#~ msgstr ""
+#~ "Undrar du vilka landningssidor som inte längre får någon trafik från "
+#~ "sökmotorerna, men som brukade få det tidigare?"
+
+# @ seobooster2
+#~ msgid "The list below shows you which pages to look out for."
+#~ msgstr "Listan nedan visar vilka sidor du ska hålla koll på."
+
+# @ seobooster2
+#~ msgid "Internal searches are ignored."
+#~ msgstr "Interna sökningar ignoreras."
+
+# @ seobooster2
+#~ msgid "SE Visitors"
+#~ msgstr "SE besökare"
+
+# @ seobooster2
+#~ msgid "Oldest recorded visit"
+#~ msgstr "Äldsta registrerade besök"
+
+# @ seobooster2
+#~ msgid "Latest recorded visit"
+#~ msgstr "Senast registrerat besök"
+
+# @ seobooster2
+#~ msgid "No SE visitors in %s days. "
+#~ msgstr "Inga SE besök senaste %s dagarna. "
+
+# @ seobooster2
+#~ msgid "404 Error page."
+#~ msgstr "404 felsida."
+
+# @ seobooster2
+#~ msgid "No SE visitors in %s. "
+#~ msgstr "Inga sökmotorbesök i %s. "
+
+# @ seobooster2
+#~ msgid ""
+#~ "No forgotten pages (that used to get search engine traffic, but now does "
+#~ "not) has been detected so far. Good, be happy about that :-)"
+#~ msgstr ""
+#~ "Inga glömda sidor (som brukade få sökmotortrafik, men inte nu) har "
+#~ "upptäckts hittills. Bra, var glad för det :-)"
+
+# @ seobooster2
+#~ msgid "SEO Booster is active."
+#~ msgstr "SEO Booster är aktiverad."
+
+# @ seobooster2
+#~ msgid "Find help on cleverplugins.com"
+#~ msgstr "Sök hjälp på cleverplugins.com"
+
+# @ seobooster2
+#~ msgid "The support forums"
+#~ msgstr "Supportforum"
+
+# @ seobooster2
+#~ msgid "The blog"
+#~ msgstr "Bloggen"
+
+# @ seobooster2
+#~ msgid "View the changelog"
+#~ msgstr "Se ändringsloggen"
+
+# @ seobooster2
+#~ msgid "Search Engine Traffic"
+#~ msgstr "Sökmotortrafik"
+
+# @ seobooster2
+#~ msgid "Keyword Stats"
+#~ msgstr "Statistik sökord"
+
+# @ seobooster2
+#~ msgid "Details of the keywords recorded."
+#~ msgstr "Information om registrerade sökord."
+
+# @ seobooster2
+#~ msgid "Known"
+#~ msgstr "Kända"
+
+# @ seobooster2
+#~ msgid "Unknown"
+#~ msgstr "Okända"
+
+# @ seobooster2
+#~ msgid "404 Error Pages"
+#~ msgstr "404 felsidor"
+
+# @ seobooster2
+#~ msgid "Showing %s out of %s results."
+#~ msgstr "Visar %s av %s resultat."
+
+# @ seobooster2
+#~ msgid "Error Page"
+#~ msgstr "Felsida"
+
+#  seobooster2
+# @ seobooster2
+#~ msgid "Enter keywords or phrases line by line."
+#~ msgstr "Ange sökord eller fraser rad för rad."
+
+# @ seobooster2
+#~ msgid "SEO Booster 2"
+#~ msgstr "SEO Booster 2"
+
+# @ seobooster2
+#~ msgid ""
+#~ "Allows you to append or prepend the most popuplar keyword for that page "
+#~ "in the &lt;title&gt;-tag."
+#~ msgstr ""
+#~ "Gör det möjligt att lägga till eller infoga det mest populära sökordet "
+#~ "för sidan i &lt;title&gt;-taggen."
